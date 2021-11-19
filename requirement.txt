@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+#for db
+sqlalchemy
+
+# env variables
+psycopg2-binary
+python-dotenv
